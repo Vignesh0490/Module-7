@@ -1,0 +1,2 @@
+Explain Code(eclipse,git), Build(Maven),Test(Junit,testNG),Release(CI ( Github,jenkins),CD(Docker)) in details with a Banking example where a customer is looking to open a current account in ABC Bank.
+Also explain conceptually about Monitor,Operate and Deploy in Devops.
